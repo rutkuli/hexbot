@@ -24,7 +24,7 @@ Hexbot will be having its own dashboard which also will be offering many feature
 
 ### Lot of different commands
 
-* **Administration**: `recaptcha`, `setwelcome`, `addcommand`, `automod`, `backup` and more! 
+* **Administration**: `setwelcome`, `addcommand`, `automod`, `backup` and more! 
 * **Moderation**: `ban`, `setlogs`, `kick`, `poll`, and more! 
 * **Nsfw**: `thicc`, `bdsm`, `ass`, `amateur`, and more! 
 * **General**: `meme`, `serverinfo`, `shorturl`, `base64`, `coinflip`, `binary`, `covid` and more! 
